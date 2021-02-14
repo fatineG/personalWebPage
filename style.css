@@ -514,6 +514,7 @@ body > div{
 }
 .middle .general .info .container .inforight .phone{
     -webkit-tap-highlight-color: rgb(255, 255, 255);
+    -webkit-touch-callout: none;
 }
 .middle .diplomas{
     width: 100%;
