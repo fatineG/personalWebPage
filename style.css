@@ -514,6 +514,7 @@ body > div{
 }
 .middle .general .info .container .inforight .phone{
     text-decoration:inherit;
+    color: inherit;
     -webkit-tap-highlight-color: rgb(255, 255, 255);
     -webkit-touch-callout: none;
 }
