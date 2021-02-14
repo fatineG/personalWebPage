@@ -512,6 +512,9 @@ body > div{
     font-weight: 600;
     color: #fff;
 }
+.middle .general .info .container .infoleft .phone{
+    -webkit-tap-highlight-color: rgb(255, 255, 255);
+}
 .middle .diplomas{
     width: 100%;
     background-color: #23232f;
@@ -640,6 +643,7 @@ body > div{
 .middle .exp .box .location{
     margin-top: 10px;
 }
+/*------------Loader animation------------------------*/
 /*-----------------PROJECTS-------------------------------*/
 .middle .projects{
     width: 100%;
