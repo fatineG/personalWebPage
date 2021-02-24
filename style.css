@@ -109,16 +109,21 @@ body > div{
 .left .wrapper .c100 .slice#one{
     clip: rect(0em, 1em, 1em, 0.2em);
     transform: rotate(35deg);
+    -webkit-clip: rect(0em, 1em, 1em, 0.2em);
+    -webkit-transform: rotate(35deg);
 }
 .left .wrapper .c100 .slice#one .bar{
     clip: auto;
+    -webkit-clip: auto;
 }
 .left .wrapper .c100 .slice#two{
     clip: rect(0em, 1em, 1em, 0.2em);
     transform: rotate(35deg);
+    -webkit-clip: rect(0em, 1em, 1em, 0.2em);
+    -webkit-transform: rotate(35deg);
 }
 .left .wrapper .c100 .slice#two .bar{
-    clip: auto;
+    -webkit-clip: auto;
 }
 .left .wrapper .c100 .slice#four{
     clip: auto;
