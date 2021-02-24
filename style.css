@@ -123,6 +123,7 @@ body > div{
     -webkit-transform: rotate(35deg);
 }
 .left .wrapper .c100 .slice#two .bar{
+    clip: auto;
     -webkit-clip: auto;
 }
 .left .wrapper .c100 .slice#four{
